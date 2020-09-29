@@ -6,6 +6,7 @@
  - we DID NOT put image .jpg files in github because , each data set is 40 MB consists of 2000 files ....
  - so when required down load 
  - for now ~/jupyter-recyle  folder has all the data files ..
+ - also image DATA files are on Windows  Download folder, see and get from there instead of download from internet again ...
 
 ### Install
  - have Anaconda installed on ubantu, verify with $conda --version
