@@ -24,6 +24,9 @@
   - download 'data' as stated in the above  POST, this is for  Ants & Bees ipynb file
   -
   - for recycle.ipynb , same code base, but get data from https://github.com/garythung/trashnet/tree/master/data
-  - 
+  
+### NEXT steps
+  -  MODELS are saved in saved_models_recycle* files, we can use them to predict instead of TRAINING again
+  -  Move those models to Andoriod ... see PytorchKotlin project  repo***....
  
  
