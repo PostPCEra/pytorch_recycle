@@ -10,6 +10,7 @@
  - 
  - **RUN**
  - $jupyter start
+ - https://www.dataquest.io/blog/jupyter-notebook-tutorial/
  
  ### Transfer Learning
   - all .ipynb files are from this dir : https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
