@@ -1,6 +1,12 @@
 # pytorch_recycle
 
 
+### What & Why
+ - gitu recycle project is based on this
+ - we DID NOT put image .jpg files in github because , each data set is 40 MB consists of 2000 files ....
+ - so when required down load 
+ - for now ~/jupyter-recyle  folder has all the data files ..
+
 ### Install
  - have Anaconda installed on ubantu, verify with $conda --version
  - install the following , which are reference in  .ipynb  jupyter notebook files
